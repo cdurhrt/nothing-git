@@ -1,2 +1,1 @@
-content
-cnt-4
+content of files_4.txt

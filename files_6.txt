@@ -1,2 +1,1 @@
-content
-cnt-6
+content of files_6.txt

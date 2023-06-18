@@ -1,2 +1,1 @@
-文件10的内容content
-cnt-10
+content of files_10.txt

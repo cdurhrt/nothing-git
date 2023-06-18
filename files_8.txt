@@ -1,2 +1,1 @@
-content
-cnt-8
+content of files_8.txt

@@ -1,2 +1,1 @@
-content
-cnt-2
+content of files_2.txt
