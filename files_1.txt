@@ -1,1 +1,2 @@
 content of files_1.txt
+text-1
